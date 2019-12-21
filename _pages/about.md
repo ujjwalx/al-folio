@@ -2,15 +2,15 @@
 layout: about
 permalink: /
 title: <strong>Ujjwal</strong> Sharma
-description: <a href="">PhD Candidate at the University of Amsterdam / Amsterdam Business School</a>
+description: PhD Candidate at the University of Amsterdam / Amsterdam Business School
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>M4.04 </p>
-    <p>Plantage Muidergracht 12</p>
-    <p>1018 TV Amsterdam, Netherlands</p>
+  #address: >
+   # <p>M4.04 </p>
+   # <p>Plantage Muidergracht 12</p>
+   # <p>1018 TV Amsterdam, Netherlands</p>
 
 news: true
 social: true
@@ -24,5 +24,5 @@ My current research is focussed on combining geospatial, visual, textual and mob
 
 My research interests lie in problems centred around multimodal learning with real-world data. Previously, I have also worked on task-driven scene-understanding problems as a part of my [Master thesis](https://esc.fnwi.uva.nl/thesis/centraal/files/f2119681021.pdf){:target="\_blank"} at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl/){:target="\_blank"}.
 
-I received my Bachelor’s degree in Electronics and Communication Engineering from VIT University, Vellore, India in 2016 and my Master’s degree in Artificial Intelligence from the University of Amsterdam in 2018.
+I received my Bachelor’s degree in Electronics and Communication Engineering from VIT University, Vellore, India in 2016 and my Master’s degree in Artificial Intelligence from the University of Amsterdam, The Netherlands in 2018.
 

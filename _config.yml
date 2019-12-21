@@ -24,10 +24,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: ujjwalx
-twitter_username: ujjwalsharmax
+twitter_username: #ujjwalsharmax
 linkedin_username: ujjwal-sharma-a36133ba
 scholar_userid: # your Google Scholar ID
-orcid_id: 0000-0003-0285-1303
+orcid_id: #0000-0003-0285-1303
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -42,8 +42,8 @@ google_analytics: # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Ujjwal Sharma
-blog_description: Personal Website for Ujjwal Sharma
+blog_name: Panorama
+blog_description: Interesting Snippets from my Research 
 
 # Pagination
 paginate: 4
@@ -100,7 +100,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Sharma
+  last_name: Sukel
   style: apa
   locale: en
 
