@@ -42,8 +42,8 @@ google_analytics: # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Panorama
-blog_description: Interesting Snippets from my Research 
+blog_name: Interesting Snippets from my Research
+blog_description:  
 
 # Pagination
 paginate: 4
