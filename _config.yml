@@ -97,6 +97,7 @@ plugins:
     - jekyll/scholar
     - jemoji
     - jekyll-sitemap
+    - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:
