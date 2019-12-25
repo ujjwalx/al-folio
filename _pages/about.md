@@ -6,7 +6,7 @@ description: PhD Candidate at the University of Amsterdam / Amsterdam Business S
 
 profile:
   align: right
-  image: prof_pic.webp
+  image: prof_pic_low.webp
   #address: >
    # <p>M4.04 </p>
    # <p>Plantage Muidergracht 12</p>
