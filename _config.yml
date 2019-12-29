@@ -1,12 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Ujjwal Sharma
+name: Ujjwal Sharma | PhD Student @ University of Amsterdam
 email: u.sharma@uva.nl
 description: > # this means to ignore newlines until "url:"
-  Personal website for Ujjwal Sharma, PhD candidate at the University of Amsterdam
+  Ujjwal Sharma. PhD candidate. Amsterdam Business School and University of Amsterdam. I am a second-year PhD student working on Machine Learning for Marketing at the University of Amsterdam, advised by Prof. Willemijn van Dolen and Dr. Stevan Rudinac.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
