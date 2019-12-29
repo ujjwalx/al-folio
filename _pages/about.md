@@ -18,7 +18,7 @@ social: true
 
 {: style="text-align: justify"}
 
-I am a Ph.D. researcher at the University of Amsterdam under the supervision of [prof. Willemijn van Dolen](https://www.uva.nl/en/profile/d/o/w.m.vandolen/w.m.vandolen.html){:target="\_blank"} and [dr. Stevan Rudinac](https://www.uva.nl/profile/r/u/s.rudinac/s.rudinac.html){:target="\_blank"}.
+I am a Ph.D. researcher at the University of Amsterdam under the supervision of [Prof. Willemijn van Dolen](https://www.uva.nl/en/profile/d/o/w.m.vandolen/w.m.vandolen.html){:target="\_blank"} and [Dr. Stevan Rudinac](https://www.uva.nl/profile/r/u/s.rudinac/s.rudinac.html){:target="\_blank"}.
 
 My current research is focussed on combining geospatial, visual, textual and mobility data to recommend optimal venues for retail establishments. The broader goal is to develop techniques that can automatically recommend store locations consistent for a particular retail type as well as a suitable visual ‘look-and-feel’ using algorithmically-learnt successful location and design choices. 
 
