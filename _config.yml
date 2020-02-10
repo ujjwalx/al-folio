@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Ujjwal Sharma | PhD Student @ University of Amsterdam
-email: mail@ujjwalsharma.net
+email: email@ujjwalsharma.net
 description: > # this means to ignore newlines until "url:"
   Ujjwal Sharma. PhD candidate. Amsterdam Business School and University of Amsterdam. I am a second-year PhD student working on Machine Learning for Marketing at the University of Amsterdam, advised by Prof. Willemijn van Dolen and Dr. Stevan Rudinac.
 footer_text: >
@@ -35,7 +35,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  E-mail is the fastest way to reach me.
+  Email is the fastest way to reach me.
 
 google_analytics: UA-137531322-2
 
