@@ -1,14 +1,14 @@
+--- # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
 # Site settings
-# -----------------------------------------------------------------------------
 name: Ujjwal Sharma | PhD Student @ University of Amsterdam
 email: u.sharma@uva.nl
 description: > # this means to ignore newlines until "url:"
   Ujjwal Sharma. PhD candidate. Amsterdam Business School and University of Amsterdam. I am a second-year PhD student working on Machine Learning for Marketing at the University of Amsterdam, advised by Prof. Willemijn van Dolen and Dr. Stevan Rudinac.
 footer_text: >
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
 
-url:  https://www.ujjwalsharma.net
+url: https://www.ujjwalsharma.net
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
@@ -43,7 +43,7 @@ google_analytics: UA-137531322-2
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Interesting Snippets from my Research
-blog_description:  
+blog_description:
 
 # Pagination
 paginate: 4
@@ -52,16 +52,16 @@ paginate_path: /blog/page:num/
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: "Newer"
+    older: "Older"
 
 # Comments
 disqus_shortname: # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
-enable_katex:       false
+show_social_icons: false
+enable_anchorjs: false
+enable_katex: false
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -88,25 +88,24 @@ highlighter: pygments
 
 # Includes & excludes
 include:
-    - _pages
+  - _pages
 exclude:
-    - vendor
-    - node_modules
+  - vendor
+  - node_modules
 
 # Plug-ins
 plugins:
-    - jekyll-email-protect
-    - jekyll-paginate
-    - jekyll/scholar
-    - jemoji
-    - jekyll-sitemap
-    - jekyll-seo-tag
+  - jekyll-email-protect
+  - jekyll-paginate
+  - jekyll/scholar
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:
-
   last_name: Sharma
-  style: ieee
+  style: apa
   locale: en
 
   sort_by: year
