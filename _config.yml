@@ -106,7 +106,7 @@ plugins:
 scholar:
 
   last_name: Sharma
-  style: apa
+  style: ieee
   locale: en
 
   sort_by: year
