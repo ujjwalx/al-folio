@@ -1,22 +1,21 @@
 ---
 layout: about
-permalink: /
 title: <strong>Ujjwal</strong> Sharma
-description: PhD Candidate at the University of Amsterdam / Amsterdam Business School
+permalink: /
+# description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic_1.jpg
-  #address: >
-   # <p>M4.04 </p>
-   # <p>Plantage Muidergracht 12</p>
-   # <p>1018 TV Amsterdam, Netherlands</p>
+  address: >
+    <p>M4.04 </p>
+    <p>Plantage Muidergracht 12</p>
+    <p>1018 TV Amsterdam, Netherlands</p>
 
-news: true
-social: true
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
-
-{: style="text-align: justify"}
 
 I am a Ph.D. candidate at the University of Amsterdam under the supervision of [Prof. Willemijn van Dolen](https://www.uva.nl/en/profile/d/o/w.m.vandolen/w.m.vandolen.html){:target="\_blank"} and [Dr. Stevan Rudinac](https://www.uva.nl/profile/r/u/s.rudinac/s.rudinac.html){:target="\_blank"}.
 

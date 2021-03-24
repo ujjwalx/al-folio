@@ -1,13 +1,16 @@
-Rudinac:
+"Rudinac":
+  - firstname: ["Stevan", "S."]
     url: https://www.uva.nl/profiel/r/u/s.rudinac/s.rudinac.html
 
-Dolen:
+"Dolen":
+  - firstname: ["Willemijn", "W. M."]
     url: https://www.uva.nl/en/profile/d/o/w.m.vandolen/w.m.vandolen.html
 
-Worring:
+"Worring":
+  - firstname: ["Marcel", "M."]
     url: https://staff.fnwi.uva.nl/m.worring/
 
-Demmers:
+"Demmers": 
+  - firstname: ["Joris", "J."]
     url: https://www.uva.nl/en/profile/d/e/j.demmers/j.demmers.html
-
 
