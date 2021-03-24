@@ -17,7 +17,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -54,34 +54,34 @@ google_analytics: UA-137531322-2
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Interesting Snippets from my Research
-blog_description:
+# blog_name: Interesting Snippets from my Research
+# blog_description:
 
-# Pagination
-pagination:
-  enabled: true
+# # Pagination
+# pagination:
+#   enabled: true
 
-# Comments
-disqus_shortname: # put your disqus shortname
+# # Comments
+# disqus_shortname: # put your disqus shortname
 
-# Optional features
-show_social_icons: false
-enable_anchorjs: false
-enable_katex: false
+# # Optional features
+# show_social_icons: false
+# enable_anchorjs: false
+# enable_katex: false
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /news/:path/
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
 
 news_limit: 5
 

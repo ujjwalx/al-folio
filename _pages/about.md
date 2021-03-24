@@ -1,19 +1,15 @@
 ---
 layout: about
-title: <strong>Ujjwal</strong> Sharma
+title: Ujjwal Sharma
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic_1.jpg
-  address: >
-    <p>M4.04 </p>
-    <p>Plantage Muidergracht 12</p>
-    <p>1018 TV Amsterdam, Netherlands</p>
-
+  
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
