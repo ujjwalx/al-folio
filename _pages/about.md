@@ -2,7 +2,7 @@
 layout: about
 title: Ujjwal Sharma
 permalink: /
-description: <a href="#">Ujjwal Sharma</a>
+description: <a href="#">ujjwal sharma</a>
 
 profile:
   align: right
