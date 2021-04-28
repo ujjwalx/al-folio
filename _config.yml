@@ -11,7 +11,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
 
 
-url: https://www.ujjwalsharma.net
+url: https://www.ujjwal.sh
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
@@ -163,7 +163,7 @@ enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
-enable_darkmode:            true
+enable_darkmode:            false 
 show_social_icons:          false
 
 # -----------------------------------------------------------------------------
